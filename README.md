@@ -1,4 +1,4 @@
-## Hi there 👋
+## PhD Student in Computer Science and Engineering at The Ohio State University 
 
 <!--
 **RonalDav/RonalDav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
