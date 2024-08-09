@@ -1,4 +1,12 @@
-## PhD Student in Computer Science and Engineering at The Ohio State University 
+# PhD Student in Computer Science and Engineering at The Ohio State University 
+
+## 🚧 Under Construction 🚧
+This page is currently under construction and will be updated soon.
+
+## 📁 Project Migration
+I am in the process of migrating significant projects to this personal account. Please note that not all projects or tools can be shared in their entirety due to sensitivity and confidentiality concerns.
+
+**Note:** While some projects may not be fully visible here, I am dedicated to providing a comprehensive overview of my work. I am open to discussing these projects further in any professional setting or engagement opportunity
 
 <!--
 **RonalDav/RonalDav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
