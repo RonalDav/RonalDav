@@ -1,6 +1,9 @@
 # PhD Student in Computer Science and Engineering at The Ohio State University 
 
 
+## Ron Davies
+I have a long standing interest in audio science, bioinformatics, immunomics, exploration, and AI. 
+
 #### 🚧 Under Construction 🚧
 This page is currently under construction and will be updated.
 
@@ -16,7 +19,7 @@ This page is currently under construction and will be updated.
 
 
 ## 📁 Project Migration
-I am in the process of migrating significant projects to this personal account and making them public. Please note that not all projects or tools can be shared in their entirety due to sensitivity and confidentiality concerns.
+I am in the process of migrating projects to this account and making them public. Please note that not all projects or tools can be shared in their entirety due to sensitivity and confidentiality concerns.
 
 
 
