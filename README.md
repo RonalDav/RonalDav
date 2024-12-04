@@ -11,11 +11,11 @@ This page is currently under construction and will be updated.
   
 - **Academic Research**: Contributions to research initiatives and ongoing academic work.
   
-- **Academic Projects**: Select class projects and assignments that demonstrate key learnings and skills.
+- **Academic Projects**: Homework assignments and projects that I enjoyed are slowly being added, though, not all may be publicly listed.
 
-- **Previous Work**: A collection of representative work from earlier roles, showcasing experience and expertise.
+- **Previous Work**: A few of my older pieces of work from previous roles/internships have been added here that are not whole, but those are meant to be representative of past projects.
   
-- **Personal Projects**: Various personal developments and tools made for fun or to help someone.
+- **Personal Projects**: You may find a few scripts or snippets or even entire projects that I made for or with friends and wish to share!
 
 
 ## 📁 Project Migration
