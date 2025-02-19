@@ -1,22 +1,27 @@
-## PhD Student in Computer Science and Engineering at The Ohio State University
+# **Ron Davies - PhD Student in Computer Science & Engineering**
 
-## Ron Davies
-I have a longstanding interest in audio science, bioinformatics, immunomics, exploration, and artificial intelligence.
+Welcome to my GitHub! I am a PhD student having fun across audio science, bioinformatics, immunomics, exploration, and artificial intelligence. Here, you’ll find a mix of my academic and personal projects, and occasionally some of my ongoing research will be visible as well.
 
-### **Under Construction**
-This page is currently under construction and will be updated.
+---
 
-### **Key Highlights**
+### **🔧 Currently Under Construction**
+This page is being updated to reflect my latest work. Check back soon for more!
 
-- **Academic Research:** Contributions to research initiatives and ongoing academic work.
+---
 
-- **Academic Projects:** Homework assignments and projects that I enjoyed are gradually being added, although not all may be publicly listed.
+### **🚀 Key Highlights**
 
-- **Previous Work:** A few of my older pieces of work from previous roles or internships have been added here that are not complete, but those are intended to be representative of past projects.
+- **🎓 Academic Research:** I contribute to cutting-edge research in various domains, focusing on the intersection of computer science with emerging fields.
 
-- **Personal Projects:** You may find a few scripts, snippets, or even entire projects that I made for or with friends and wish to share!
+- **📚 Academic Projects:** A selection of coursework and research projects that I've enjoyed working on. While not all are publicly available, I’m excited to share what I can.
 
-### **Project Migration**
-I am in the process of migrating projects to this account and making them public. Please note that not all projects or tools can be shared in their entirety due to sensitivity and confidentiality concerns.
+- **💼 Previous Work:** A few past projects from internships and professional roles (where possible), offering a glimpse into my real-world experience.
 
-**Note:** While some projects may not be fully visible here, I intend to provide a comprehensive overview of my work. If you would like to discuss any specific projects in greater detail, please do not hesitate to contact me. 
+- **🔍 Personal Projects:** You’ll find personal scripts, small experiments, and collaborative projects I’ve developed with friends and peers.
+
+---
+
+### **⚙️ Project Migration in Progress**
+I am currently in the process of migrating and making some of my previous projects public. Due to privacy and confidentiality constraints, not all projects or code can be shared in full.
+
+**Want to know more?** If any project sparks your interest or if you'd like to dive deeper into specific areas of my work, feel free to reach out. I’d love to connect and discuss further!
