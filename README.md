@@ -1,4 +1,4 @@
-# **Ron Davies - PhD Student in Computer Science & Engineering**
+# **Ronald Davies - PhD Student in Computer Science & Engineering**
 
 Welcome to my GitHub! I am a PhD student having fun with audio science, bioinformatics, immunomics, exploration, and artificial intelligence. Here, you’ll find a mix of my academic and personal projects, and occasionally some of my ongoing research will be visible as well. 
 
